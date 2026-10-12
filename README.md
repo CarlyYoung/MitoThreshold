@@ -53,4 +53,4 @@ renv::restore()
 ## Citation
 If you use MitoThreshold, please cite:
 
-Young, C. (2026). *MitoThreshold* (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23313443
+Young, C. (2026). *MitoThreshold* (Version 1.0.2) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23313443
