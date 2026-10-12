@@ -6,6 +6,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-2338-8314"
 title: "MitoThreshold"
 version: 1.0.2
+doi: "10.5281/zenodo.23313443"
 date-released: 2026-10-12
 type: software
 license: MIT
