@@ -40,6 +40,16 @@ source("MitoThreshold_Reproducible_Pipeline.R")
 
 Results are written to separate preprocessing and mitochondrial-threshold analysis directories. Existing non-empty output directories are never overwritten.
 
+## Reproducing the software environment
+This project uses `renv` to record the R 4.5.2 software environment used on the UCT HPC.
+
+To restore the recorded package versions:
+
+```r
+install.packages("renv")
+renv::restore()
+```
+
 ## Citation
 If you use MitoThreshold, please cite:
 
