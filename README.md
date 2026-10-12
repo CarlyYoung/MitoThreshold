@@ -41,4 +41,6 @@ source("MitoThreshold_Reproducible_Pipeline.R")
 Results are written to separate preprocessing and mitochondrial-threshold analysis directories. Existing non-empty output directories are never overwritten.
 
 ## Citation
-Citation details for the associated manuscript will be added upon publication.
+If you use MitoThreshold, please cite:
+
+Young, C. (2026). *MitoThreshold* (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23312191
