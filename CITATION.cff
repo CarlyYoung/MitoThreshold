@@ -5,8 +5,7 @@ authors:
   given-names: "Carly"
   orcid: "https://orcid.org/0000-0002-2338-8314"
 title: "MitoThreshold"
-version: 1.0.1
-doi: "10.5281/zenodo.23312191"
+version: 1.0.2
 date-released: 2026-10-12
 type: software
 license: MIT
